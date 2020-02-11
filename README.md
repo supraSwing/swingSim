@@ -1,2 +1,2 @@
 # swingSim
-supra swing pendulum simulation
+supra swing pendulum simulation WIP
